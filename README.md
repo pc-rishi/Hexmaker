@@ -19,7 +19,6 @@ To run the script, you'll need the following Python libraries installed:
 
 1. Clone or download this repository to your local machine.
 2. Install the required libraries using pip:
-3. Install `geohexgrid` from its source or repository (if not already installed).
 4. Modify the `file_path` variable in `main.py` to point to your GeoJSON file.
 5. Run the script using Python:
 
